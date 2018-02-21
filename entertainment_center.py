@@ -1,6 +1,7 @@
 import media
 import fresh_tomatoes
 
+
 # guardians of galaxy movie:movie_title, storyline, poster_image and movie trailer
 guardians = media.Movie(
     "Gardians of the Galaxy 2",
