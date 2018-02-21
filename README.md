@@ -6,17 +6,14 @@ A movie website for my favourite movies with their trailers built with _python a
 
 * Python 2.7 or above should be installed
 
-* Any IDE text Editor for running python
-
-
 ### How to run
 
-* Install or Clone the repository
+* Download or Clone the repository
 
 * Extract the folder
 
-* Run the entertainment.py file present in the folder with python editor
+* Open the entertainment_center.py file present in the folder
 
-* Run the module entertainment.py
+* Run the module entertainment_center.py
 
-* voila!
+* Voila!
