@@ -1,6 +1,6 @@
 import webbrowser
 
-#Class definition
+# Class definition
 class Movie():
     # Constructor to initialize variables
     def __init__(self, movie_title, movie_storyline,
